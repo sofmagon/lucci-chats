@@ -1,0 +1,157 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "members": {
+        "user": {
+          "firstName": "Romina",
+          "lastName": "Miller",
+          "avatar": "link_a_la_imagen_del_usuario_1",
+          "channel": "Instagram"
+        },
+        "bot": {
+          "name": "Bot",
+          "avatar": "link_a_la_imagen_del_bot",
+          "channel": "WhatsApp"
+        }
+      },
+      "messages": [
+        {
+          "sender": "user",
+          "day": 5,
+          "month": 8,
+          "year": 2024,
+          "time": "10:00:00",
+          "content": {
+            "text": "Cras placerat elit quis erat pretium, vitae tincidunt urna luctus. Donec in molestie massa. Sed pretium felis vel quam elementum condimentum. Nam aliquam massa orci, ac fringilla ipsum pretium non.",
+            "image": null,
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "bot",
+          "day": 5,
+          "month": 8,
+          "year": 2024,
+          "time": "10:01:00",
+          "content": {
+            "text": "Quisque id odio in dui sagittis molestie ut id enim. Pellentesque at magna vel nibh facilisis malesuada. Suspendisse aliquam arcu sit amet nisi fringilla malesuada.",
+            "image": null,
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "user",
+          "day": 5,
+          "month": 8,
+          "year": 2024,
+          "time": "10:02:00",
+          "content": {
+            "text": null,
+            "image": "link_a_la_imagen_enviada",
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "bot",
+          "day": 5,
+          "month": 8,
+          "year": 2024,
+          "time": "10:03:00",
+          "content": {
+            "text": "In eget sapien sit amet risus auctor venenatis.",
+            "image": null,
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "user",
+          "day": 5,
+          "month": 8,
+          "year": 2024,
+          "time": "10:04:00",
+          "content": {
+            "text": "Suspendisse aliquam arcu sit amet nisi fringilla malesuada.",
+            "image": null,
+            "audio": null,
+            "file": "link_al_archivo_pdf"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "members": {
+        "user": {
+          "firstName": "Daniel",
+          "lastName": "Taylor",
+          "avatar": "link_a_la_imagen_del_usuario_2",
+          "channel": "Facebook"
+        },
+        "bot": {
+          "name": "Bot",
+          "avatar": "link_a_la_imagen_del_bot",
+          "channel": "WhatsApp"
+        }
+      },
+      "messages": [
+        {
+          "sender": "user",
+          "day": 6,
+          "month": 8,
+          "year": 2024,
+          "time": "09:00:00",
+          "content": {
+            "text": "Morbi nec cursus sem. Donec cursus tempor orci, ut bibendum nulla posuere id. Vestibulum interdum felis a leo elementum elementum.",
+            "image": null,
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "bot",
+          "day": 6,
+          "month": 8,
+          "year": 2024,
+          "time": "09:01:00",
+          "content": {
+            "text": "Fusce tincidunt risus id pharetra placerat. Phasellus nec pellentesque ligula. Proin maximus porta gravida. Cras sollicitudin ultrices auctor.",
+            "image": null,
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "user",
+          "day": 6,
+          "month": 8,
+          "year": 2024,
+          "time": "09:02:00",
+          "content": {
+            "text": "Nam at aliquam magna. Praesent gravida porta nisl?",
+            "image": "link_a_la_imagen_enviada",
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "bot",
+          "day": 6,
+          "month": 8,
+          "year": 2024,
+          "time": "09:03:00",
+          "content": {
+            "text": "Aliquam luctus faucibus magna vel mattis. In porttitor massa vel nisl tincidunt mollis. Ut mattis pulvinar dui, eget rhoncus lectus. Mauris vestibulum blandit vulputate.",
+            "image": null,
+            "audio": null,
+            "file": null
+          }
+        }
+      ]
+    }
+  ]
+}
