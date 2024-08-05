@@ -6,12 +6,12 @@
         "user": {
           "firstName": "Romina",
           "lastName": "Miller",
-          "avatar": "link_a_la_imagen_del_usuario_1",
+          "avatar": "https://i.ibb.co/6D01R4n/4.jpg",
           "channel": "Instagram"
         },
         "bot": {
           "name": "Lucci",
-          "avatar": "link_a_la_imagen_del_bot",
+          "avatar": "https://i.ibb.co/gwxnc7w/Lucci.png",
           "channel": "WhatsApp"
         }
       },
@@ -89,12 +89,12 @@
         "user": {
           "firstName": "Daniel",
           "lastName": "Taylor",
-          "avatar": "link_a_la_imagen_del_usuario_2",
+          "avatar": "https://i.ibb.co/zNH3rSb/1.jpg",
           "channel": "Facebook"
         },
         "bot": {
           "name": "Lucci",
-          "avatar": "link_a_la_imagen_del_bot",
+          "avatar": "https://i.ibb.co/gwxnc7w/Lucci.png",
           "channel": "WhatsApp"
         }
       },
