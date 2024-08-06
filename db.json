@@ -4,10 +4,10 @@
       "id": 1,
       "members": {
         "user": {
-          "firstName": "Romina",
-          "lastName": "Miller",
-          "avatar": "https://i.ibb.co/6D01R4n/4.jpg",
-          "channel": "Instagram"
+          "firstName": "Daniel",
+          "lastName": "Taylor",
+          "avatar": "https://i.ibb.co/qrWXYwK/1.jpg",
+          "channel": "WhatsApp"
         },
         "bot": {
           "name": "Lucci",
@@ -87,10 +87,10 @@
       "id": 2,
       "members": {
         "user": {
-          "firstName": "Daniel",
-          "lastName": "Taylor",
-          "avatar": "https://i.ibb.co/zNH3rSb/1.jpg",
-          "channel": "Facebook"
+          "firstName": "Romina",
+          "lastName": "Miller",
+          "avatar": "https://i.ibb.co/GkdY9kN/2.jpg",
+          "channel": "Instagram"
         },
         "bot": {
           "name": "Lucci",
