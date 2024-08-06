@@ -152,6 +152,76 @@
           }
         }
       ]
+    },
+    {
+      "id": 3,
+      "members": {
+        "user": {
+          "firstName": "Sarah",
+          "lastName": "Johnson",
+          "avatar": "https://i.ibb.co/dQRHmCT/3.jpg",
+          "channel": "WhatsApp"
+        },
+        "bot": {
+          "name": "Lucci",
+          "avatar": "https://i.ibb.co/gwxnc7w/Lucci.png",
+          "channel": "WhatsApp"
+        }
+      },
+      "messages": [
+        {
+          "sender": "user",
+          "day": 7,
+          "month": 8,
+          "year": 2024,
+          "time": "11:05:00",
+          "content": {
+            "text": "Morbi nec cursus sem. Donec cursus tempor orci, ut bibendum nulla posuere id. Vestibulum interdum felis a leo elementum elementum.",
+            "image": null,
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "bot",
+          "day": 7,
+          "month": 8,
+          "year": 2024,
+          "time": "11:06:00",
+          "content": {
+            "text": "Fusce tincidunt risus id pharetra placerat. Phasellus nec pellentesque ligula. Proin maximus porta gravida. Cras sollicitudin ultrices auctor.",
+            "image": null,
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "user",
+          "day": 7,
+          "month": 8,
+          "year": 2024,
+          "time": "11:07:00",
+          "content": {
+            "text": "Nam at aliquam magna. Praesent gravida porta nisl?",
+            "image": "link_a_la_imagen_enviada",
+            "audio": null,
+            "file": null
+          }
+        },
+        {
+          "sender": "bot",
+          "day": 7,
+          "month": 8,
+          "year": 2024,
+          "time": "11:08:00",
+          "content": {
+            "text": "Aliquam luctus faucibus magna vel mattis. In porttitor massa vel nisl tincidunt mollis. Ut mattis pulvinar dui, eget rhoncus lectus. Mauris vestibulum blandit vulputate.",
+            "image": null,
+            "audio": null,
+            "file": null
+          }
+        }
+      ]
     }
   ]
 }
